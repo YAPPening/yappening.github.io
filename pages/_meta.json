@@ -1,0 +1,10 @@
+{
+  "index": "Introduction",
+  "credits": "Credits",
+  "user" : "User Docs",
+  "contributing" : "Contributing Docs", 
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
