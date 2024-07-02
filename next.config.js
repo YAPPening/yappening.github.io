@@ -1,12 +1,16 @@
 const withNextra = require("nextra")({
-  theme: "nextra-theme-blinkshell",
-  themeConfig: "./src/theme.config.js",
-  unstable_staticImage: true,
-  unstable_flexsearch: {
-    codeblock: false,
-  },
+  theme: "nextra-theme-docs",
+  themeConfig: "./theme.config.tsx",
 });
 
-module.exports = withNextra({
-  reactStrictMode: true,
-});
+
+const nextConfig = {
+  images: {
+    unoptimized: true,
+  },
+};
+
+module.exports = {
+  ...withNextra(),
+  ...nextConfig,
+};
