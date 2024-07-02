@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyappening_github_io=self.webpackChunkyappening_github_io||[]).push([[832],{9990:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/changelog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

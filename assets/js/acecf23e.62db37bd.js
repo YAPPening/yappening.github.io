@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyappening_github_io=self.webpackChunkyappening_github_io||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/changelog","blogTitle":"Blog"}')}}]);
