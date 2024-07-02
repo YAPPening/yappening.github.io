@@ -1,16 +1,20 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+documentation:
+  label: Docs Change
+  permalink: /documentation
+  description: Changes in documentation
+privacy:
+  label: Privacy Change
+  permalink: /privacy
+  description: Changes in privacy
+minor:
+  label: Minor Release
+  permalink: /minor-release
+  description: Minor releases/changes
+major:
+  label: Major Release
+  permalink: /major-release
+  description: Major releases/changes
+other:
+  label: Other
+  permalink: /other
+  description: Not strictly changelog related
