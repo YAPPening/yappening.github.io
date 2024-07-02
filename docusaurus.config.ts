@@ -52,8 +52,11 @@ const config: Config = {
 
 
   themeConfig: {
-    // Replace with your project's social card
-    defaultMode: 'dark',
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
+    },
     image: 'img/boston.webp',
     navbar: {
       title: 'YAPP-Docs',
@@ -84,7 +87,7 @@ const config: Config = {
           items: [
             {
               label: 'User Documentation',
-              to: '/docs',
+              to: '/docs/intro',
             },
 
           ],
@@ -107,7 +110,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ethqnol/YAPP',
             },
           ],
         },
