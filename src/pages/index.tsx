@@ -26,7 +26,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className={styles.button_second}
-            to="/docs/intro">
+            to="/docs/contributing">
             Contributing
           </Link>
         </div>
