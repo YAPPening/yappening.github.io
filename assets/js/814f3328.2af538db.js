@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyappening_github_io=self.webpackChunkyappening_github_io||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Long Blog Post","permalink":"/changelog/long-blog-post","unlisted":false}]}')}}]);

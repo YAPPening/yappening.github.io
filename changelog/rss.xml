@@ -9,12 +9,12 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://theyappening.com/changelog/long-blog-post</link>
-            <guid>https://theyappening.com/changelog/long-blog-post</guid>
+            <title><![CDATA[Test Deployment of Documentation]]></title>
+            <link>https://theyappening.com/changelog/deploying-docs</link>
+            <guid>https://theyappening.com/changelog/deploying-docs</guid>
             <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features-certainly more than we need-so we will likely stick with this moving on.]]></description>
-            <content:encoded><![CDATA[<p>We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features-certainly more than we need-so we will likely stick with this moving on.</p>]]></content:encoded>
+            <description><![CDATA[We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features, certainly more than we need, so we will likely stick with this moving on.]]></description>
+            <content:encoded><![CDATA[<p>We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features, certainly more than we need, so we will likely stick with this moving on.</p>]]></content:encoded>
             <category>Other</category>
             <category>Docs Change</category>
         </item>
