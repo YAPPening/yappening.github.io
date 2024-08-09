@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
     <channel>
         <title>YAPP-Docs Blog</title>
         <link>https://theyappening.com/changelog</link>
         <description>YAPP-Docs Blog</description>
-        <lastBuildDate>Mon, 01 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Aug 2024 18:33:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Test Deployment of Documentation]]></title>
-            <link>https://theyappening.com/changelog/deploying-docs</link>
-            <guid>https://theyappening.com/changelog/deploying-docs</guid>
-            <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features, certainly more than we need, so we will likely stick with this moving on.]]></description>
-            <content:encoded><![CDATA[<p>We've deployed documentation as a test on Github Pages using the Docusaurus framework, that is built on React. There are enough features, certainly more than we need, so we will likely stick with this moving on.</p>]]></content:encoded>
-            <category>Other</category>
-            <category>Docs Change</category>
+            <title><![CDATA[Test.]]></title>
+            <link>https://theyappening.com/changelog/test</link>
+            <guid>https://theyappening.com/changelog/test</guid>
+            <pubDate>Fri, 09 Aug 2024 18:33:20 GMT</pubDate>
+            <description><![CDATA[Test.]]></description>
         </item>
     </channel>
 </rss>
